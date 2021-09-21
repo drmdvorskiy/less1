@@ -1,0 +1,6 @@
+zone = "ru-central1-c"
+cloud_id = "*****"
+folder_id = "*****"
+image_id = "fd83klic6c8gfgi40urb"
+yc_token = "*****"
+
